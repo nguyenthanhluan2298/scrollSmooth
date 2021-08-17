@@ -1,3 +1,4 @@
+console.log("hello");
 var smooth = document.querySelector('.to-top');
 console.log(smooth);
 window.addEventListener('scroll',function(){
